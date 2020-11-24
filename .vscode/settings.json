@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/home/matthias/anaconda3/envs/ai_nanodegree/bin/python"
+    "python.pythonPath": "/home/matthias/anaconda3/envs/ai_nanodegree/bin/python",
+    "git.ignoreLimitWarning": true
 }
